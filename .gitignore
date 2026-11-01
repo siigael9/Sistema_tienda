@@ -5,3 +5,6 @@ __pycache__/
 # Entornos virtuales
 .venv/
 venv/
+
+# Base de datos local
+tienda.db
